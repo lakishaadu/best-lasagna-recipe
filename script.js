@@ -1,4 +1,3 @@
-text alignment {}
 $(function() {
 
 var origTitle, animatedTitle, timer;
